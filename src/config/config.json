@@ -1,5 +1,5 @@
 {
-	"itemsPerPage": 3,
+	"itemsPerPage": 20,
 	"fetchAttempts": 3,
 	"apiUri": "http://api.tvmaze.com",
 	"PORT": 3000,
