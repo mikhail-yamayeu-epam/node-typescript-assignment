@@ -1,0 +1,13 @@
+{
+	"itemsPerPage": 3,
+	"fetchAttempts": 3,
+	"apiUri": "http://api.tvmaze.com",
+	"PORT": 3000,
+	"MONGO_CONNECTION_STRING": "mongodb://localhost:27017/test-assignment",
+	"scraperConfig": {
+		"limit": {
+			"queries": 20,
+			"timeLimit": 20000
+		}
+	}
+}
